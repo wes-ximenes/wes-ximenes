@@ -22,7 +22,7 @@
 `Python` • `C`  
 
 **Database:**  
-`MySQL`
+`MySQL` • `PostgreSQL` • `MongoDB`
 
 **Tools & Workflow:**  
 `Git` • `GitHub` • `VS Code`
