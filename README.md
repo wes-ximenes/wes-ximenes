@@ -9,8 +9,8 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Graduated in **Veterinary Medicine**  
-- 🧠 Currently learning **Python, C, and MySQL**  
+- 🎓 Studying ADS (Systems Analysis and Development)
+- 🧠 Currently learning **Python|Django, C, MySQL and PostgreSQL**  
 - 🛠️ Hands-on experience with **Git & GitHub**  
 - 🔄 In a **career transition** to Software Development  
 - 🎯 Focused on building projects to strengthen my skills
