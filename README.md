@@ -1,7 +1,7 @@
 ## 👋 Hey! I'm Wesley Ximenes
 
 
-🎯 **Aspiring Software Developer | Python • C • MySQL | Git/GitHub Enthusiast**  
+🎯 **Aspiring Software Developer | Python Enthusiast**  
 💼 Transitioning from Veterinary Medicine to the Programming world  
 📚 Currently studying **Analysis and Systems Development**  
 🐍 Passionate about solving problems through code (especially Python!)
