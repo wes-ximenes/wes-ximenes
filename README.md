@@ -18,7 +18,10 @@
 
 ### 💻 Tech Stack
 **Languages:**  
-`Python` • `C`  
+`Python` • `JavaScript`  
+
+**Frameworks:**  
+`Django` • `Node.js`  
 
 **Database:**  
 `MySQL` • `PostgreSQL` • `MongoDB`
