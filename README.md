@@ -61,14 +61,6 @@ I'm looking for my first opportunity as a **Junior Full Stack Developer** or **S
 
 ---
 
-## 📈 GitHub Stats
-
-![Wesley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WesleyXimenes&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyXimenes&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](www.linkedin.com/in/wesley-ximenes)
