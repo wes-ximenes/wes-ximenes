@@ -64,7 +64,8 @@ I'm looking for my first opportunity as a **Junior Full Stack Developer** or **S
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-ximenes)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wximenes4@gmail.com)
+
+📧 **Email:** <wximenes4@gmail.com>
 
 💼 **Open to Junior Full Stack Developer and Internship opportunities**
 
